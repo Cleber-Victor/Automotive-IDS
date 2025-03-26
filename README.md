@@ -19,7 +19,7 @@ O repositório está organizado em três notebooks principais:
 
 Para reproduzir os experimentos, é necessário ter instalado:
 
-- Pyhon 3.7 ou superior
+- Python 3.7 ou superior
 - TensorFlow e/ou Keras
 - scikit-learn
 - pandas, numpy
