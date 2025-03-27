@@ -5,7 +5,7 @@
 - **Cleber Victor (cvsj)**
 - **Heitor Pereira (hmp)**
 - **Hugo Medeiros (ham4)**
-- **Paulo Filho (proj)**
+- **Paulo Filho (prof)**
 
 ## Professor
 
