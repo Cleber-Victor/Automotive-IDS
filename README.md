@@ -35,9 +35,12 @@ Contém 5 notebooks:
 - **Resultados_validacao.ipynb**: Resultados obtidos a partir do treinamento (conjunto de validação).
 - **Resultados-teste.ipynb**: Resultados obtidos a partir do conjunto de testes (dados outdoor).
 
-### **TOW-IDS**
+### **TOW**
 
-Com X notebooks: 
+Com 2 notebooks:
+
+- **ids-projeto-tow-test.ipynb**: Importação e tratamento dos dados utilizados para o treino e validação do modelo e resultados obtidos.
+- **ids-projeto-tow-train.ipynb**: Importação e tratamento dos dados utilizados para os testes do modelo e resultados obtidos.
 
 ## Requisitos
 
