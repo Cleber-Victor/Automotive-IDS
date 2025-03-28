@@ -13,9 +13,12 @@
 
 ---
 
-Este projeto foi desenvolvido como parte da disciplina de **Detecção de Intrusão** do **Centro de Informática de Universidade Federal de Pernambuco (CIn - UFPE)**, com o objetivo de reproduzir o artigo:
+Este projeto foi desenvolvido como parte da disciplina de **Detecção de Intrusão** do **Centro de Informática da Universidade Federal de Pernambuco (CIn - UFPE)**, com o objetivo de reproduzir o artigo:  
 
-[**Convolutional neural network-based intrusion detection system for AVTP streams in automotive Ethernet-based networks**](https://www.sciencedirect.com/science/article/abs/pii/S2214209621000073)
+[**Convolutional neural network-based intrusion detection system for AVTP streams in automotive Ethernet-based networks**](https://www.sciencedirect.com/science/article/abs/pii/S2214209621000073) [1].  
+
+Além disso, utilizamos o framework disponibilizado no seguinte repositório:  [**Automotive IDS Evaluation Framework**](https://github.com/luigiluz/automotive-ids-evaluation-framework/tree/main) [2].  
+
 
 ## Introdução
 
@@ -53,4 +56,10 @@ Para reproduzir os experimentos, é necessário ter instalado:
 - scikit-learn
 - scapy, pandas, numpy
 - Matplotlib e/ou Seaborn
+
+## Referências  
+
+[1] Jeong, S., Jeon, B., Chung, B. and Kim, H.K., 2021. Convolutional neural network-based intrusion detection system for AVTP streams in automotive Ethernet-based networks. Vehicular Communications, 29, p.100338.
+
+[2] L. Luz, “Automotive IDS Evaluation Framework,” GitHub repository, disponível em: https://github.com/luigiluz/automotive-ids-evaluation-framework/tree/main.  
 
