@@ -230,6 +230,7 @@ class CNNIDSFeatureGenerator(abstract_feature_generator.AbstractFeatureGenerator
 
     def __calculate_difference_module(self, selected_packets):
         difference_array = np.diff(selected_packets, axis=0)
+        #MODIFICATION
         difference_module = np.mod(difference_array.astype(np.int16), 256).astype(np.uint8)
 
         return difference_module
