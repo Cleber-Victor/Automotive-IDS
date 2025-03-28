@@ -39,8 +39,10 @@ Contém 5 notebooks:
 
 Com 2 notebooks:
 
-- **ids-projeto-tow-test.ipynb**: Importação e tratamento dos dados utilizados para o treino e validação do modelo e resultados obtidos.
-- **ids-projeto-tow-train.ipynb**: Importação e tratamento dos dados utilizados para os testes do modelo e resultados obtidos.
+- **ids-projeto-tow-test.ipynb**: Métricas obtidas a partir das avaliações no conjunto de teste.
+- **ids-projeto-tow-train.ipynb**: Métricas obtidas a partir das avaliações no conjunto de treino.
+- **cnn_ids_feature_generator.py**: Importação e tratamento dos dados utilizados para o treinamento e teste do modelo.
+- **data_processing.md**: Explicação do framework utilizado para extração de features. 
 
 ## Requisitos
 
